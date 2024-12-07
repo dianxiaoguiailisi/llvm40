@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLLVMCollectCFVHints.a CMakeFiles/LLVMCollectCFVHints.dir/CollectLoopHints.o CMakeFiles/LLVMCollectCFVHints.dir/CollectCondBranchHints.o CMakeFiles/LLVMCollectCFVHints.dir/CollectICallHints.o CMakeFiles/LLVMCollectCFVHints.dir/CollectIBranchHints.o
+/usr/bin/ranlib libLLVMCollectCFVHints.a
